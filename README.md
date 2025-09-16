@@ -14,6 +14,9 @@ A curated collection of code snippets for developers building with SwapKit.
 #### THORChain / Trade Assets
 - [`setup.ts`](./sdk/thorchain/trade-assets/setup.ts) — initialize SDK + connect wallet  
 - [`mintBTCTradeAssets.ts`](./sdk/thorchain/trade-assets/mintBTCTradeAssets.ts) — mint BTC trade assets with `TRADE+` memo  
+#### Core
+- **Config**
+  - [`totalConfigControl.tsx`](./sdk/core/config/totalConfigControl.tsx) — central runtime config management (SDK v4)
 
 ---
 
