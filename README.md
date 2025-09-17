@@ -17,6 +17,8 @@ A curated collection of code snippets for developers building with SwapKit.
 #### Core
 - **Config**
   - [`totalConfigControl.tsx`](./sdk/core/config/totalConfigControl.tsx) — central runtime config management (SDK v4)
+- **Builders**
+  - [`standardizedBuilders.jsx`](./sdk/core/builders/standardizedBuilders.jsx) — consistent plugin & wallet builders (SDK v4)
 
 ---
 
