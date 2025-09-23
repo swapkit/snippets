@@ -19,6 +19,8 @@ A curated collection of code snippets for developers building with SwapKit.
   - [`totalConfigControl.tsx`](./sdk/core/config/totalConfigControl.tsx) — central runtime config management (SDK v4)
 - **Builders**
   - [`standardizedBuilders.jsx`](./sdk/core/builders/standardizedBuilders.jsx) — consistent plugin & wallet builders (SDK v4)
+- **Imports**
+  - [`cleanerImports.tsx`](./sdk/core/imports/cleanerImports.tsx) — single-package, tree-shakable import pattern (SDK v4)
 
 ---
 
