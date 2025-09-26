@@ -21,6 +21,9 @@ A curated collection of code snippets for developers building with SwapKit.
   - [`standardizedBuilders.jsx`](./sdk/core/builders/standardizedBuilders.jsx) — consistent plugin & wallet builders (SDK v4)
 - **Imports**
   - [`cleanerImports.tsx`](./sdk/core/imports/cleanerImports.tsx) — single-package, tree-shakable import pattern (SDK v4)
+- **Chains**
+  - [`chainCoverageUpgrades.tsx`](./sdk/core/chains/chainCoverageUpgrades.tsx) — toolbox usage with Solana, XRP, Cosmos, OneKey (SDK v4)
+
 
 ---
 
